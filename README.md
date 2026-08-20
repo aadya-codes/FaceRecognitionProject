@@ -19,6 +19,8 @@ A reference image of Elon Musk is compared with:
 
 * Another image of Elon Musk → expected match
 * An image of Bill Gates → expected non-match
+![Test 1](screenshots/Elon-Musk-test.png)
+![Test 2](screenshots/Bill-Gates-Test.png)
 
 ## Tech Stack
 
