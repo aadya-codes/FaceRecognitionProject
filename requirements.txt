@@ -1,0 +1,3 @@
+face-recognition==1.3.0
+face_recognition_models==0.3.0
+opencv-Python==5.0.0.93
